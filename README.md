@@ -6,7 +6,7 @@ Atualmente, além de trabalhar como desenvolvedora de Websites, eu crio conteúd
 
 <div>
   <a href="https://github.com/ketelynC">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave&title_color=FF00EE&bg_color=101010&text_color=852BDA&icon_color=FF00EE&border_color=303030&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ketelynC&show_icons=true&theme=synthwave&title_color=FF00EE&bg_color=101010&text_color=852BDA&icon_color=FF00EE&border_color=303030&count_private=true">
   </a>
 </div>
 
